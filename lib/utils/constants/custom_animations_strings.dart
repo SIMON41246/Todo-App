@@ -1,0 +1,6 @@
+class CustomAnimationStrings {
+  CustomAnimationStrings._();
+
+
+
+}
